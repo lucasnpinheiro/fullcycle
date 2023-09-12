@@ -1,0 +1,5 @@
+version: "3"
+services:
+  full-cycle-go:
+    build: .
+    container_name: full-cycle-go
